@@ -10,8 +10,8 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'https://pelican-elegant.github.io'
+SITEURL = 'yinhang.blog'
 RELATIVE_URLS = False
-SOCIAL = (('Github', 'https://github.com/Pelican-Elegant/'), ('RSS', SITEURL + '/feeds/all.atom.xml'))
+SOCIAL = (('Github', 'https://github.com/yinhang-e5b0b9e888aa/'), ('RSS', SITEURL + '/feeds/all.atom.xml'))
 
 DELETE_OUTPUT_DIRECTORY = False
