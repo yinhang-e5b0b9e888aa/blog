@@ -32,7 +32,7 @@ git module better_codeblock_line_numbering:
     pick: better_codeblock_line_numbering
 
 git module elegant:
-    url: https://github.com/yinhang-e5b0b9e888aa/elegant.git
+    url: https://github.com/yinhang-e5b0b9e888aa/blog-theme.git
     rev: next
     # export: themes/
 
